@@ -59,16 +59,24 @@ Só para organizar melhor vamos explicar um pouquinho as coisas: aqui em baixo t
 
 <details>
     <summary>3° Semana</summary>
-  
+
+> 4.7. Clonando Objetos, Shallow Copy x Deep Copy
+>
+> > 4.7.1. Shallow Copy<br>
+> > 4.7.2. Deep Copy
+>
 > 4.8. Funções
->> 4.8.1. Função arrow   
->> 4.8.2. Funções do array 
->>> 4.8.2.1. Foreach      
->>> 4.8.2.2. Map       
->>> 4.8.2.3. Filter   
->>> 4.8.2.4. Reduce
-> 
->4.9. Promises, Async e Await
+>
+> > 4.8.1. Função arrow  
+> > 4.8.2. Funções do array
+> >
+> > > 4.8.2.1. Foreach  
+> > > 4.8.2.2. Map  
+> > > 4.8.2.3. Filter  
+> > > 4.8.2.4. Reduce
+>
+> 4.9. Promises, Async e Await
+
 </details>
 
 <details>
@@ -97,11 +105,11 @@ Só para organizar melhor vamos explicar um pouquinho as coisas: aqui em baixo t
 > > 5.5. Interfaces
 > > > 5.5.1. Criando e usando interfaces <br>
 > > > 5.5.2. Extensão de tipos com interfaces
->>
+> >
 > > 5.6. Type Aliases
 > > > 5.6.1. Criando e usando type aliases <br>
 > > > 5.6.2. Extensão de tipos com type aliases
->>
+> >
 > > 5.7. Genéricos
 > > > 5.7.1. Introdução aos genéricos <br>
 > > > 5.7.2. Usando genéricos em funções e classes
