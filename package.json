@@ -1,0 +1,23 @@
+{
+  "name": "capacitacao-javascript",
+  "version": "1.0.0",
+  "description": "<!-- markdownlint-disable -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ex-Machina-Unifei-Oficial/capacitacao-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ex-Machina-Unifei-Oficial/capacitacao-javascript/issues"
+  },
+  "homepage": "https://github.com/Ex-Machina-Unifei-Oficial/capacitacao-javascript#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {}
+}
